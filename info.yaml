@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        ""      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  title:        "ASCII DONUT"      # Project title
+  author:       "JEZREEL MAGBANUA"      # Your name
+  discord:      "NA"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "ITS A DONUT ROTATING!!!!!, Famous C++ Challenge"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
