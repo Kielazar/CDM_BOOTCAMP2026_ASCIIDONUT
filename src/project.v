@@ -8,7 +8,7 @@ module tt_um_vga_example(
     input  wire [7:0] uio_in,
     output wire [7:0] uio_out,
     output wire [7:0] uio_oe,
-    output wire       ena
+    input wire       ena
 );
 
   // ---------------------------------------------------------------
